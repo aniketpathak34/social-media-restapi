@@ -47,8 +47,9 @@ python manage.py runserver
 
 
 
-## API Endpoints
-
+## User Profile Details To access this endpoint
+Username : "admin"
+Password : "admin"
 ## API Endpoints
 
 The Social Media REST API provides the following endpoints:
