@@ -31,8 +31,8 @@ pytz
 PyYAML
 requests
 requests-oauthlib
-ruamel.yaml
-ruamel.yaml.clib
+ruamel.yaml==0.17.21
+ruamel.yaml.clib==0.2.7
 simplejwt
 six
 social-auth-app-django
